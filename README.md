@@ -1,4 +1,4 @@
-**I do not maintain this project and [mumlib](https://github.com/slomkowski/mumlib) any longer, but some new features and bugfixes have been implemented in the [forks](https://github.com/slomkowski/mumsi/network). Check them out!**
+**The orginal code developer does not maintain this project and [mumlib](https://github.com/slomkowski/mumlib) any longer, but some new features and bugfixes have been implemented in the [forks](https://github.com/slomkowski/mumsi/network). Check them out!**
 
 # *mumsi* - SIP to Mumble gateway
 
@@ -94,7 +94,3 @@ Some older versions of PJSIP are affected (confirmed for 2.3). In this case you 
 ## Credits
 
 2015, 2016 Michał Słomkowski. The code is published under the terms of Apache License 2.0.
-
-## Donations
-
-If this project has helped you and you feel generous, you can donate some money to `14qNqXwqb6zsEKZ6vUhWVbuNLGdg8hnk8b`.
